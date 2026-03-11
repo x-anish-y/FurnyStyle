@@ -1,5 +1,7 @@
 # 🪑 FurnyStyle – Modern Furniture E-Commerce Platform
 
+![FurnyStyle Architecture](Screenshot%202026-03-11%20124632.png)
+
 FurnyStyle is a modern furniture browsing and shopping platform designed to showcase stylish furniture collections with a clean, responsive user interface.
 
 The project demonstrates modern frontend design principles and scalable web architecture using Next.js and React.
